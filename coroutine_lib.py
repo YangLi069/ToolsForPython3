@@ -62,6 +62,7 @@ etc
 这看着就像一个精密的机械装置，有条不紊的运行着，环环相扣！
 '''
 
+# 代码需要在Linux下运行
 import select
 
 from collections import deque
